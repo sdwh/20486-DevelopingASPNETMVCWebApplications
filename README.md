@@ -22,3 +22,85 @@ The files are available in a GitHub repo at https://github.com/MicrosoftLearning
 ## What about changes to the student handbook?
 The student handbook will be released in calendar year 2016 and will be updated on a regular basis through normal MOC release channels as needed.
 
+---
+
+## Course Outline
+
+1️ - Exploring ASP.NET MVC 5
+▪ Overview of Microsoft Web Technologies
+▪ Overview of ASP.NET
+▪ Introduction to ASP.NET MVC 5
+▪ Lab : Exploring ASP.NET MVC 5
+
+2 - Designing ASP.NET MVC 5 Web Applications
+▪ Planning in the Project Design Phase
+▪ Designing Models, Controllers, and Views
+▪ Lab : Designing ASP.NET MVC 5 Web Applications
+
+3 - Developing ASP.NET MVC 5 Models
+▪ Creating MVC Models
+▪ Working with Data
+▪ Lab : Developing ASP.NET MVC 5 Models
+
+4 - Developing ASP.NET MVC 5 Controllers
+▪ Writing Controllers and Actions
+▪ Writing Action Filters
+▪ Lab : Developing ASP.NET MVC 5 Controllers
+
+5 - Developing ASP.NET MVC 5 Views
+▪ Creating Views with Razor Syntax
+▪ Using HTML Helpers
+▪ Reusing Code in Views
+▪ Lab : Developing ASP.NET MVC 5 Views
+
+6 - Testing and Debugging ASP.NET MVC 5 Web Applications
+▪ Unit Testing MVC Components
+▪ Implementing an Exception Handling Strategy
+▪ Lab : Testing and Debugging the ASP.NET MVC 5 Web Applications
+
+7 - Structuring ASP.NET MVC 5 Web Applications
+▪ Analyzing Information Architecture
+▪ Configuring Routes
+▪ Creating a Navigation Structure
+▪ Lab : Structuring ASP.NET MVC 5 Web Applications
+
+8 - Applying Styles to ASP.NET MVC 5 Web Applications
+▪ Using Layouts
+▪ Applying CSS to an MVC Application
+▪ Creating an Adaptive User Interface
+▪ Lab : Applying Styles to ASP.NET MVC 5 Web Applications
+
+9 - Building Responsive Pages in ASP.NET MVC 5 Web Applications
+▪ Using AJAX and Partial Page Updates
+▪ Implementing a Caching Strategy
+▪ Lab : Building Responsive Pages in ASP.NET MVC 5 Web Applications
+
+10 - Using JavaScript and jQuery for Responsive MVC 5 Web Applications
+▪ Rendering and Executing JavaScript Code
+▪ Using jQuery and jQueryUI
+▪ Lab : Using JavaScript and jQuery for Responsive MVC 5 Web Applications
+
+11 - Controlling Access to ASP.NET MVC 5 Web Applications
+▪ Implementing Authentication and Authorization
+▪ Assigning Roles and Membership
+▪ Lab : Controlling Access to ASP.NET MVC 5 Web Applications
+
+12 - Building a Resilient ASP.NET MVC 5 Web Application
+▪ Developing Secure Sites
+▪ State Management
+▪ Lab : Building a Resilient ASP.NET MVC 5 Web Application
+
+13 - Implementing Web APIs in ASP.NET MVC 5 Web Applications
+▪ Developing a Web API
+▪ Calling a Web API from Mobile and Web Applications
+▪ Lab : Implementing Web APIs in ASP.NET MVC 5 Web Applications
+
+14 - Handling Requests in ASP.NET MVC 5 Web Applications
+▪ Using HTTP Modules and HTTP Handlers
+▪ Using Web Sockets
+▪ Lab : Handling Requests in ASP.NET MVC 5 Web Applications
+
+15 - Deploying ASP.NET MVC 5 Web Applications
+▪ Deploying a Web Application
+▪ Deploying an ASP.NET MVC 5 Web Application
+▪ Lab : Deploying ASP.NET MVC 5 Web Applications
